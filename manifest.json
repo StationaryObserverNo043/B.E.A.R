@@ -1,0 +1,23 @@
+{
+  "name": "B.E.A.R. - Biological Entity Alert Radar",
+  "short_name": "B.E.A.R.",
+  "description": "生体反応警戒レーダー - 近隣の熊出没情報をワンタップで検索",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0A0E14",
+  "theme_color": "#0A0E14",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
